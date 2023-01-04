@@ -1,0 +1,15 @@
+body{
+    font-size: 25px;
+}
+
+div{
+    background-color: lightblue;
+}
+
+li:first-child{
+    display: none;
+}
+
+li:last-child{
+    border: 1px solid red;
+}
